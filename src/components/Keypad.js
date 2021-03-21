@@ -1,7 +1,7 @@
 import React from "React";
 export default class kypad extends React.Component{
   
-  const handlevent=()=>{
+ handlevent=()=>{
     console.log("Entering password");
     
   }
