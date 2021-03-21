@@ -7,10 +7,13 @@ export default class kypad extends React.Component{
   }
   
   render(){
+    <div>
     return(
       <input type="password" onKeyUp={this.keyevent}/>
       
-      );
+      )
+      </div>
+      
     
   }
 }
