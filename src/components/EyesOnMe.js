@@ -7,7 +7,7 @@ export default class EyesOnMe extends React.Component {
     console.log("Good!");
   }
 
-const onBlur=()=>{
+ onBlur=()=>{
     console.log("Hey! Eyes on me!");
   }
   render() {
