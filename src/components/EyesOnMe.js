@@ -3,7 +3,7 @@ import React from 'react';
 export default class EyesOnMe extends React.Component {
 
   const onFocus=()=>{
-    console.log("here we go i'm focus")!
+    console.log("Good!");
   }
 
 const onBlur=()=>{
