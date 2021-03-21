@@ -3,6 +3,7 @@ export default class kypad extends React.Component{
   
   render(){
     return(
+      <input>
       
       )
     
