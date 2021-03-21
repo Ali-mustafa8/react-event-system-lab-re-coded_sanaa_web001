@@ -7,7 +7,7 @@ export default class kypad extends React.Component{
   }
   render(){
     return(
-      <input type="password">
+      <input type="password" keyUp={this.keyUp}>
       
       )
     
